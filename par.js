@@ -1,3 +1,5 @@
+//Verifica se o número é par ou impar
+
 function is_par (num) {
     if (num % 2 === 0) {
         console.log(num, "é par")
