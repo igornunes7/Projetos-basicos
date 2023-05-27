@@ -1,0 +1,10 @@
+h1 {
+    color: bisque;
+    font: bolder;
+} 
+
+h2 {
+    color: purple;
+    font: bolder;
+    box-shadow: -2px 3px 2px 1px 
+}
